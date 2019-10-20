@@ -14,7 +14,7 @@ Find DrawingScene.swift.
 
 Write your drawing command in the code block of the draw() function.
 
-API
+## API
 
 Coordinates are measured from the lower left corner.
 
@@ -48,7 +48,7 @@ Draw a red box. The default sample code draws a box in the default color blue. Y
 
 ### Challenge 2
 
-Draw a small box. The default code draws a box that is 50 units on a side. Use the move(_ steps: Int) method to set the number of steps moved.
+Draw a small box. The default code draws a box that is 50 units on a side. Use the `move(_ steps: Int)` method to set the number of steps moved.
 
 ### Challenge 3
 
@@ -58,13 +58,13 @@ Write a function that draws the box. The code that draws the box rather long bet
 
 ### Challenge 4
 
-Speed up the drawing process. It's taking too long to draw things. Use changeDelay(delay: 0.1) speed up the drawing. Add this before the drawing code.
+Speed up the drawing process. It's taking too long to draw things. Use `changeDelay(delay: 0.1)` speed up the drawing. Add this before the drawing code.
 
 Try changing the value here to vary the drawing speed.
 
 ### Challenge 5
 
-Draw the box near one of the corners. Use the moveTo(x: Int, y: Int) method to move the pen, then call your drawBox() function. try different values for x and y in the parameters of moveTo(x: Int, y: Int). Note! it is possible to draw the box off the screen if the numbers are too large or too small!
+Draw the box near one of the corners. Use the `moveTo(x: Int, y: Int` method to move the pen, then call your `drawBox()` function. try different values for x and y in the parameters of `moveTo(x: Int, y: Int)`. Note! it is possible to draw the box off the screen if the numbers are too large or too small!
 
 ### Challenge 6
 
@@ -74,7 +74,7 @@ Make a function that draws a box of a size. Write a new function that takes a pa
 
 ### Challenge 7
 
-Draw a box near each corner. Use the new method and make each box 12 units in size. Before each call to drawBox(size: 12) use moveTo(x: Int, y: Int) to move the pen to a location where you would like to draw.
+Draw a box near each corner. Use the new method and make each box 12 units in size. Before each call to `drawBox(size: 12)` use `moveTo(x: Int, y: Int)` to move the pen to a location where you would like to draw.
 
 ### Challenge 8
 
