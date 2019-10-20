@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AC099CD0-A749-4F9E-94F8-4C8CA78260F4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0967DFA4-5FD9-4CFF-8FC0-7FEA1ED1DA55"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Draw/SKUtils/SKAction+SpecialEffects.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "colorGlitchWithScene(_:originalColor:duration:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0967DFA4-5FD9-4CFF-8FC0-7FEA1ED1DA55 - a2ac1793ecb06a94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static (extension in Draw):__C.SKAction.colorGlitchWithScene(_: __C.SKScene, originalColor: __C.NSColor, duration: Swift.Double) -&gt; __C.SKAction"
+                  moduleName = "Draw"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adrianagonzalezmartinez/Desktop/Draw/Draw/SKUtils/SKAction+SpecialEffects.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "62">
+               </Location>
+               <Location
+                  uuid = "0967DFA4-5FD9-4CFF-8FC0-7FEA1ED1DA55 - b03311629e80ba83"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.SKNode, CoreGraphics.CGFloat) -&gt; () in static (extension in Draw):__C.SKAction.colorGlitchWithScene(_: __C.SKScene, originalColor: __C.NSColor, duration: Swift.Double) -&gt; __C.SKAction"
+                  moduleName = "Draw"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adrianagonzalezmartinez/Desktop/Draw/Draw/SKUtils/SKAction+SpecialEffects.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
